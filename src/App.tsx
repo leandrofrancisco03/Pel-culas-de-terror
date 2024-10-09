@@ -34,7 +34,7 @@ const initialMovies: Movie[] = [
     director: "Jaume Balagueró, Paco Plaza",
     description: "Una reportera y su camarógrafo quedan atrapados en un edificio infestado de zombis.",
     category: "Found Footage",
-    image: "https://m.media-amazon.com/images/M/MV5BZjU4MzIyZWUtNWQ4Yy00YjI1LWE2Y2MtOWZlY2E4OGQxNGE5XkEyXkFqcGdeQXVyMjQ2MTk1OTE@._V1_SX300.jpg",
+    image: "https://pics.filmaffinity.com/AaREC-273731015-large.jpg",
     imdbLink: "https://www.imdb.com/title/tt1038988/"
   },
   {
@@ -54,7 +54,7 @@ const initialMovies: Movie[] = [
     director: "The Vicious Brothers",
     description: "El equipo de un programa de televisión sobre fenómenos paranormales queda atrapado en un hospital psiquiátrico abandonado.",
     category: "Found Footage",
-    image: "https://m.media-amazon.com/images/M/MV5BMjQ1NTA1NzExMV5BMl5BanBnXkFtZTgwOTU4MzI1ODE@._V1_SX300.jpg",
+    image: "https://m.media-amazon.com/images/M/MV5BMTMzMzI4NTQwMl5BMl5BanBnXkFtZTcwMzYwMzMwNg@@._V1_.jpg",
     imdbLink: "https://www.imdb.com/title/tt1703199/"
   },
   {
@@ -94,7 +94,7 @@ const initialMovies: Movie[] = [
     director: "Shane Carruth",
     description: "Dos ingenieros inventan accidentalmente una máquina que permite viajar en el tiempo, con consecuencias inesperadas.",
     category: "Viajes en el Tiempo",
-    image: "https://m.media-amazon.com/images/M/MV5BZTRiYjYxNjUtNDdlNS00NjEzLWFiNTEtZDZhY2U4ZGI1YmNlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    image: "https://www.cinemascomics.com/wp-content/uploads/2017/03/explicacion-de-primer.jpg",
     imdbLink: "https://www.imdb.com/title/tt0390384/"
   },
   {
@@ -104,7 +104,7 @@ const initialMovies: Movie[] = [
     director: "Nacho Vigalondo",
     description: "Un hombre accidentalmente viaja una hora atrás en el tiempo, desencadenando una serie de eventos cada vez más complicados.",
     category: "Viajes en el Tiempo",
-    image: "https://m.media-amazon.com/images/M/MV5BMjA4NzQ5OTYzNV5BMl5BanBnXkFtZTcwMzgzOTk1MQ@@._V1_SX300.jpg",
+    image: "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Cronocrimenes.jpg/220px-Cronocrimenes.jpg",
     imdbLink: "https://www.imdb.com/title/tt0480669/"
   }
 ];
